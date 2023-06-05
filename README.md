@@ -1,3 +1,3 @@
-# -Multi_Logistic
+# Multi_Logistic
 Implementation and Analysis of Multivariate Logistic Regression using Stochastic Gradient Descent: A Case Study on Binary Classification with a Large Dataset
 This ptoject involves implementing multivariate logistic regression and learning its solution using Stochastic Gradient Descent. The project focuses on the practical aspects of binary classification, specifically for a large dataset with a substantial number of features and samples. The implementation of logistic regression is provided separately in a code file named "assignment2.py." The dataset used is a physics dataset called "susysubset," which consists of 8 features and 100,000 samples. Additionally, the results are compared with a random classifier, aiming to demonstrate the superiority of the logistic regression model.
